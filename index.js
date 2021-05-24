@@ -1,5 +1,5 @@
-Number.isInteger =
-  Number.isInteger ||
+Number.isInteger(10) =
+  Number.isInteger || 
   function(value) {
     return (
       typeof value === "number" &&
