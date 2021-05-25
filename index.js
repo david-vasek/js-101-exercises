@@ -1,4 +1,4 @@
-Number.isInteger(10) =
+Number.isInteger() =
   Number.isInteger || 
   function(value) {
     return (
